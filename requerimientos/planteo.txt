@@ -1,0 +1,8 @@
+PLANTEO
+
+-La empresa Soldagro SRL provee servicios de soldadura. Cuenta con puestos de trabajo y procesos.
+-procesan las piezas requeridas para los clientes, las cuales poseen un material (ese material tiene diferentes presentaciones) y un grupo,
+el cual puede ser subconjunto (conjunto de piezas) o un conjunto (conjunto de piezas y subconjuntos).
+-tambien requieren de insumos.
+-tiene diferentes puestos de trabajo donde se realizan procesos. Estos puestos, cuentan con un depósito que esta compuesto por diferentes
+contenedores(pallets, estanterias) y estos contenedores poseen un sector(001 - 1A - capacho).
